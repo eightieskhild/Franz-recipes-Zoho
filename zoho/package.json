@@ -1,0 +1,12 @@
+{
+  "id": "zoho",
+  "name": "Zoho Mail",
+  "version": "1.0.0",
+  "description": "Zoho",
+  "main": "index.js",
+  "author": "Red Rayner <redrayner@heavyweightmark.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.zoho.com/mail/login.html"
+  }
+}
